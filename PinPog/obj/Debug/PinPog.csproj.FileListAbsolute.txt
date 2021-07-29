@@ -1,0 +1,15 @@
+C:\Users\root\source\repos\PinPog\PinPog\bin\Debug\PinPog.exe.config
+C:\Users\root\source\repos\PinPog\PinPog\bin\Debug\PinPog.exe
+C:\Users\root\source\repos\PinPog\PinPog\bin\Debug\PinPog.pdb
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\MainWindow.g.cs
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\App.g.cs
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog_MarkupCompile.cache
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog_MarkupCompile.lref
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\MainWindow.baml
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.g.resources
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.Properties.Resources.resources
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.csproj.GenerateResource.cache
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.exe
+C:\Users\root\source\repos\PinPog\PinPog\obj\Debug\PinPog.pdb
